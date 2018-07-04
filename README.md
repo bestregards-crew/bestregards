@@ -4,3 +4,5 @@ AV live broadcasting machine for multi-level marketing, self empowerment, busine
 ![Juast a test how to add images](/images/Charles_Thomson._Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision.jpg)
 
 ![image from google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNU0MWIns3yZprLoDplatscjtZaGMqPeL-hOl99LZfawTqzYBr)
+
+![one more](/images/Screen Shot 2018-07-01 at 12.23.33 PM.jpeg)
