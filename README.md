@@ -5,4 +5,4 @@ AV live broadcasting machine for multi-level marketing, self empowerment, busine
 
 ![image from google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNU0MWIns3yZprLoDplatscjtZaGMqPeL-hOl99LZfawTqzYBr)
 
-![one more](/images/Screen Shot 2018-07-01 at 12.23.33 PM.jpeg)
+![one more](/images/Screen%20Shot%202018-07-01%20at%2012.23.33%20PM.jpeg)
